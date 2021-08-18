@@ -27,7 +27,7 @@
 
 - The video files are provided in the directory "public/videofiles" and can be accessed in HTML through the path "/videofiles/...". 
 
-- The JS and CSS files of the Plyr video player can be found in "public/static/" and referenced with "/static". Check the Plyr documentation for more info on how to initialize the video player. Check in the browser developer console oif Plyr is really loaded. Potentially the video is being played by the browser directly. 
+- The JS and CSS files of the Plyr video player can be found in "public/static/" and referenced with "/static". Check the Plyr documentation for more info on how to initialize the video player. Check in the browser developer console oif Plyr is really loaded. Potentially the video is being played by the browser directly. When Plyr is running no menu will open when you right-click on the video. 
 
 - Create a three column layout with Bootstrap 4 grid that contains the player in the middle column on the desktop. On a mobile phone the player should extend over the whole width.
 
