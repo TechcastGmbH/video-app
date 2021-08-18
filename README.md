@@ -17,7 +17,7 @@
 
 - You can find some template skeletons in the directory "templates". Please note that Twig templates can use some mechanisms for including/extending other templates such as https://twig.symfony.com/doc/2.x/tags/extends.html. 
 
-- The CSS and JS get built with Yarn, for instance "yarn encore dev) (see https://symfony.com/doc/current/frontend/encore/simple-example.html for more information).
+- The CSS and JS get built with Yarn, for instance "yarn encore dev) (see https://symfony.com/doc/current/frontend/encore/simple-example.html for more information; don't get confused by some differences in paths like "assets, "assets/js" etc).
 
 - Include the app CSS stylesheet in your template(s) so you have a central entrypoint for styling the site.
 
